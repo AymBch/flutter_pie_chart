@@ -1,7 +1,7 @@
 name: flutter_pie_chart
 description: A Flutter package for pie chart.
 version: 0.0.1
-homepage:
+homepage: https://github.com/AymBch/flutter_pie_chart.git
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
